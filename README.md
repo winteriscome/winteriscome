@@ -1,7 +1,5 @@
-### Hi there 👋
+### 我有一个千万级的项目，不知道你有没有兴趣
 
-
-**winteriscome/winteriscome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
